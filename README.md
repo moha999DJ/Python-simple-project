@@ -1,5 +1,5 @@
 <h1 align="center">PYTHON SIMPLE PROJECTS </h1>
-i use whatever i learn about python and put it on repositorires 🙂
+i use whatever i learn about python and put it on repositories 🙂
 
 
 <div id="header" align="left">
